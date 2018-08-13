@@ -1,0 +1,25 @@
+body {
+  background-color: #FFEBCD;
+}
+h1{
+  border: 1px solid coral;
+  padding: 35px;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  font-variant: small-caps;
+}
+
+h2{
+  background-color: 	#E9967A;
+  color: 		#AFEEEE;
+}
+
+.important {
+  color: #228B22;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+p.important {
+  font-size: 24px;
+}
